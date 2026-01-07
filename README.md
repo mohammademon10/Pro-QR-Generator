@@ -1,4 +1,4 @@
-![PRO QR Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:2563eb,100:0f172a\&height=260\&section=header\&text=PRO%20QR%20Engineering%20Studio\&fontSize=42\&fontColor=ffffff\&desc=Professional%20QR%20Code%20Design%20%26%20Management\&descSize=16\&descAlignY=65)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRO--QR-Engineering%20Studio-0f172a?style=for-the-badge&logo=qrcode&logoColor=white" />
@@ -172,3 +172,4 @@ For commercial or SaaS usage, please provide proper credit.
 ---
 
 > ⭐ If you like this project, don’t forget to **star the repository** and share it!
+
